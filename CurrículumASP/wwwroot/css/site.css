@@ -1,0 +1,42 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+#imgprincipal {
+    margin-bottom: 40px;
+}
+
+.left {
+    padding-left: 25%;
+}
+
+.margins {
+    margin: 1%;
+}
+
+li {
+    list-style: none;
+}
+
+.progreso {
+    padding-right: 20%;
+}
+
+.nivel {
+    width: 500px;
+}

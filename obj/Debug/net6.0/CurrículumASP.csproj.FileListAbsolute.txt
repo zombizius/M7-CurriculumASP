@@ -1,0 +1,280 @@
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculum\CurrículumASP\bin\Debug\net6.0\appsettings.Development.json
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculum\CurrículumASP\bin\Debug\net6.0\appsettings.json
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculum\CurrículumASP\bin\Debug\net6.0\CurrículumASP.staticwebassets.runtime.json
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculum\CurrículumASP\bin\Debug\net6.0\CurrículumASP.exe
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculum\CurrículumASP\bin\Debug\net6.0\CurrículumASP.deps.json
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculum\CurrículumASP\bin\Debug\net6.0\CurrículumASP.runtimeconfig.json
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculum\CurrículumASP\bin\Debug\net6.0\CurrículumASP.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculum\CurrículumASP\bin\Debug\net6.0\CurrículumASP.pdb
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculum\CurrículumASP\bin\Debug\net6.0\Humanizer.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculum\CurrículumASP\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculum\CurrículumASP\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculum\CurrículumASP\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculum\CurrículumASP\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculum\CurrículumASP\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculum\CurrículumASP\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculum\CurrículumASP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculum\CurrículumASP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculum\CurrículumASP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculum\CurrículumASP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculum\CurrículumASP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculum\CurrículumASP\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculum\CurrículumASP\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculum\CurrículumASP\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculum\CurrículumASP\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculum\CurrículumASP\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculum\CurrículumASP\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculum\CurrículumASP\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculum\CurrículumASP\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculum\CurrículumASP\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculum\CurrículumASP\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculum\CurrículumASP\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculum\CurrículumASP\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculum\CurrículumASP\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculum\CurrículumASP\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculum\CurrículumASP\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculum\CurrículumASP\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculum\CurrículumASP\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculum\CurrículumASP\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculum\CurrículumASP\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculum\CurrículumASP\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculum\CurrículumASP\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculum\CurrículumASP\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculum\CurrículumASP\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculum\CurrículumASP\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculum\CurrículumASP\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculum\CurrículumASP\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculum\CurrículumASP\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculum\CurrículumASP\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculum\CurrículumASP\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculum\CurrículumASP\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculum\CurrículumASP\obj\Debug\net6.0\CurrículumASP.csproj.AssemblyReference.cache
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculum\CurrículumASP\obj\Debug\net6.0\CurrículumASP.GeneratedMSBuildEditorConfig.editorconfig
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculum\CurrículumASP\obj\Debug\net6.0\CurrículumASP.AssemblyInfoInputs.cache
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculum\CurrículumASP\obj\Debug\net6.0\CurrículumASP.AssemblyInfo.cs
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculum\CurrículumASP\obj\Debug\net6.0\CurrículumASP.csproj.CoreCompileInputs.cache
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculum\CurrículumASP\obj\Debug\net6.0\CurrículumASP.MvcApplicationPartsAssemblyInfo.cs
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculum\CurrículumASP\obj\Debug\net6.0\CurrículumASP.MvcApplicationPartsAssemblyInfo.cache
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculum\CurrículumASP\obj\Debug\net6.0\CurrículumASP.RazorAssemblyInfo.cache
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculum\CurrículumASP\obj\Debug\net6.0\CurrículumASP.RazorAssemblyInfo.cs
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculum\CurrículumASP\obj\Debug\net6.0\staticwebassets.build.json
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculum\CurrículumASP\obj\Debug\net6.0\staticwebassets.development.json
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculum\CurrículumASP\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculum\CurrículumASP\obj\Debug\net6.0\scopedcss\bundle\CurrículumASP.styles.css
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculum\CurrículumASP\obj\Debug\net6.0\scopedcss\projectbundle\CurrículumASP.bundle.scp.css
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculum\CurrículumASP\obj\Debug\net6.0\CurrículumASP.csproj.CopyComplete
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculum\CurrículumASP\obj\Debug\net6.0\CurrículumASP.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculum\CurrículumASP\obj\Debug\net6.0\refint\CurrículumASP.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculum\CurrículumASP\obj\Debug\net6.0\CurrículumASP.pdb
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculum\CurrículumASP\obj\Debug\net6.0\CurrículumASP.genruntimeconfig.cache
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculum\CurrículumASP\obj\Debug\net6.0\ref\CurrículumASP.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculumcasa\CurrículumASP\bin\Debug\net6.0\appsettings.Development.json
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculumcasa\CurrículumASP\bin\Debug\net6.0\appsettings.json
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculumcasa\CurrículumASP\bin\Debug\net6.0\CurrículumASP.staticwebassets.runtime.json
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculumcasa\CurrículumASP\bin\Debug\net6.0\CurrículumASP.exe
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculumcasa\CurrículumASP\bin\Debug\net6.0\CurrículumASP.deps.json
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculumcasa\CurrículumASP\bin\Debug\net6.0\CurrículumASP.runtimeconfig.json
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculumcasa\CurrículumASP\bin\Debug\net6.0\CurrículumASP.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculumcasa\CurrículumASP\bin\Debug\net6.0\CurrículumASP.pdb
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculumcasa\CurrículumASP\bin\Debug\net6.0\Humanizer.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculumcasa\CurrículumASP\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculumcasa\CurrículumASP\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculumcasa\CurrículumASP\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculumcasa\CurrículumASP\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculumcasa\CurrículumASP\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculumcasa\CurrículumASP\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculumcasa\CurrículumASP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculumcasa\CurrículumASP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculumcasa\CurrículumASP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculumcasa\CurrículumASP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculumcasa\CurrículumASP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculumcasa\CurrículumASP\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculumcasa\CurrículumASP\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculumcasa\CurrículumASP\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculumcasa\CurrículumASP\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculumcasa\CurrículumASP\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculumcasa\CurrículumASP\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculumcasa\CurrículumASP\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculumcasa\CurrículumASP\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculumcasa\CurrículumASP\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculumcasa\CurrículumASP\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculumcasa\CurrículumASP\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculumcasa\CurrículumASP\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculumcasa\CurrículumASP\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculumcasa\CurrículumASP\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculumcasa\CurrículumASP\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculumcasa\CurrículumASP\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculumcasa\CurrículumASP\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculumcasa\CurrículumASP\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculumcasa\CurrículumASP\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculumcasa\CurrículumASP\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculumcasa\CurrículumASP\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculumcasa\CurrículumASP\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculumcasa\CurrículumASP\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculumcasa\CurrículumASP\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculumcasa\CurrículumASP\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculumcasa\CurrículumASP\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculumcasa\CurrículumASP\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculumcasa\CurrículumASP\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculumcasa\CurrículumASP\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculumcasa\CurrículumASP\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculumcasa\CurrículumASP\obj\Debug\net6.0\CurrículumASP.csproj.AssemblyReference.cache
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculumcasa\CurrículumASP\obj\Debug\net6.0\CurrículumASP.GeneratedMSBuildEditorConfig.editorconfig
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculumcasa\CurrículumASP\obj\Debug\net6.0\CurrículumASP.AssemblyInfoInputs.cache
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculumcasa\CurrículumASP\obj\Debug\net6.0\CurrículumASP.AssemblyInfo.cs
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculumcasa\CurrículumASP\obj\Debug\net6.0\CurrículumASP.csproj.CoreCompileInputs.cache
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculumcasa\CurrículumASP\obj\Debug\net6.0\CurrículumASP.MvcApplicationPartsAssemblyInfo.cs
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculumcasa\CurrículumASP\obj\Debug\net6.0\CurrículumASP.MvcApplicationPartsAssemblyInfo.cache
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculumcasa\CurrículumASP\obj\Debug\net6.0\CurrículumASP.RazorAssemblyInfo.cache
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculumcasa\CurrículumASP\obj\Debug\net6.0\CurrículumASP.RazorAssemblyInfo.cs
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculumcasa\CurrículumASP\obj\Debug\net6.0\staticwebassets.build.json
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculumcasa\CurrículumASP\obj\Debug\net6.0\staticwebassets.development.json
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculumcasa\CurrículumASP\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculumcasa\CurrículumASP\obj\Debug\net6.0\scopedcss\bundle\CurrículumASP.styles.css
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculumcasa\CurrículumASP\obj\Debug\net6.0\scopedcss\projectbundle\CurrículumASP.bundle.scp.css
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculumcasa\CurrículumASP\obj\Debug\net6.0\CurrículumASP.csproj.CopyComplete
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculumcasa\CurrículumASP\obj\Debug\net6.0\CurrículumASP.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculumcasa\CurrículumASP\obj\Debug\net6.0\refint\CurrículumASP.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculumcasa\CurrículumASP\obj\Debug\net6.0\CurrículumASP.pdb
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculumcasa\CurrículumASP\obj\Debug\net6.0\CurrículumASP.genruntimeconfig.cache
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\curriculumcasa\CurrículumASP\obj\Debug\net6.0\ref\CurrículumASP.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\CurrículumASPCasa\bin\Debug\net6.0\appsettings.Development.json
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\CurrículumASPCasa\bin\Debug\net6.0\appsettings.json
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\CurrículumASPCasa\bin\Debug\net6.0\CurrículumASP.staticwebassets.runtime.json
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\CurrículumASPCasa\bin\Debug\net6.0\CurrículumASP.exe
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\CurrículumASPCasa\bin\Debug\net6.0\CurrículumASP.deps.json
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\CurrículumASPCasa\bin\Debug\net6.0\CurrículumASP.runtimeconfig.json
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\CurrículumASPCasa\bin\Debug\net6.0\CurrículumASP.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\CurrículumASPCasa\bin\Debug\net6.0\CurrículumASP.pdb
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\CurrículumASPCasa\bin\Debug\net6.0\Humanizer.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\CurrículumASPCasa\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\CurrículumASPCasa\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\CurrículumASPCasa\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\CurrículumASPCasa\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\CurrículumASPCasa\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\CurrículumASPCasa\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\CurrículumASPCasa\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\CurrículumASPCasa\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\CurrículumASPCasa\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\CurrículumASPCasa\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\CurrículumASPCasa\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\CurrículumASPCasa\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\CurrículumASPCasa\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\CurrículumASPCasa\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\CurrículumASPCasa\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\CurrículumASPCasa\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\CurrículumASPCasa\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\CurrículumASPCasa\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\CurrículumASPCasa\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\CurrículumASPCasa\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\CurrículumASPCasa\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\CurrículumASPCasa\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\CurrículumASPCasa\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\CurrículumASPCasa\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\CurrículumASPCasa\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\CurrículumASPCasa\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\CurrículumASPCasa\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\CurrículumASPCasa\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\CurrículumASPCasa\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\CurrículumASPCasa\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\CurrículumASPCasa\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\CurrículumASPCasa\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\CurrículumASPCasa\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\CurrículumASPCasa\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\CurrículumASPCasa\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\CurrículumASPCasa\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\CurrículumASPCasa\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\CurrículumASPCasa\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\CurrículumASPCasa\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\CurrículumASPCasa\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\CurrículumASPCasa\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\CurrículumASPCasa\obj\Debug\net6.0\CurrículumASP.csproj.AssemblyReference.cache
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\CurrículumASPCasa\obj\Debug\net6.0\CurrículumASP.GeneratedMSBuildEditorConfig.editorconfig
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\CurrículumASPCasa\obj\Debug\net6.0\CurrículumASP.AssemblyInfoInputs.cache
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\CurrículumASPCasa\obj\Debug\net6.0\CurrículumASP.AssemblyInfo.cs
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\CurrículumASPCasa\obj\Debug\net6.0\CurrículumASP.csproj.CoreCompileInputs.cache
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\CurrículumASPCasa\obj\Debug\net6.0\CurrículumASP.MvcApplicationPartsAssemblyInfo.cs
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\CurrículumASPCasa\obj\Debug\net6.0\CurrículumASP.MvcApplicationPartsAssemblyInfo.cache
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\CurrículumASPCasa\obj\Debug\net6.0\CurrículumASP.RazorAssemblyInfo.cache
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\CurrículumASPCasa\obj\Debug\net6.0\CurrículumASP.RazorAssemblyInfo.cs
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\CurrículumASPCasa\obj\Debug\net6.0\staticwebassets.build.json
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\CurrículumASPCasa\obj\Debug\net6.0\staticwebassets.development.json
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\CurrículumASPCasa\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\CurrículumASPCasa\obj\Debug\net6.0\scopedcss\bundle\CurrículumASP.styles.css
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\CurrículumASPCasa\obj\Debug\net6.0\scopedcss\projectbundle\CurrículumASP.bundle.scp.css
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\CurrículumASPCasa\obj\Debug\net6.0\CurrículumASP.csproj.CopyComplete
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\CurrículumASPCasa\obj\Debug\net6.0\CurrículumASP.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\CurrículumASPCasa\obj\Debug\net6.0\refint\CurrículumASP.dll
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\CurrículumASPCasa\obj\Debug\net6.0\CurrículumASP.pdb
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\CurrículumASPCasa\obj\Debug\net6.0\CurrículumASP.genruntimeconfig.cache
+E:\OneDrive - Centre d'Estudis Monlau\2 DAW\M7 - Desenvolupament Web en Entorn Servidor\visual2022\CurrículumASPCasa\obj\Debug\net6.0\ref\CurrículumASP.dll
+E:\GitHub\M7-CurriculumASP\bin\Debug\net6.0\appsettings.Development.json
+E:\GitHub\M7-CurriculumASP\bin\Debug\net6.0\appsettings.json
+E:\GitHub\M7-CurriculumASP\bin\Debug\net6.0\CurrículumASP.staticwebassets.runtime.json
+E:\GitHub\M7-CurriculumASP\bin\Debug\net6.0\CurrículumASP.exe
+E:\GitHub\M7-CurriculumASP\bin\Debug\net6.0\CurrículumASP.deps.json
+E:\GitHub\M7-CurriculumASP\bin\Debug\net6.0\CurrículumASP.runtimeconfig.json
+E:\GitHub\M7-CurriculumASP\bin\Debug\net6.0\CurrículumASP.dll
+E:\GitHub\M7-CurriculumASP\bin\Debug\net6.0\CurrículumASP.pdb
+E:\GitHub\M7-CurriculumASP\bin\Debug\net6.0\Humanizer.dll
+E:\GitHub\M7-CurriculumASP\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\GitHub\M7-CurriculumASP\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\GitHub\M7-CurriculumASP\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\GitHub\M7-CurriculumASP\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\GitHub\M7-CurriculumASP\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\GitHub\M7-CurriculumASP\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\GitHub\M7-CurriculumASP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\GitHub\M7-CurriculumASP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\GitHub\M7-CurriculumASP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\GitHub\M7-CurriculumASP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\GitHub\M7-CurriculumASP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\GitHub\M7-CurriculumASP\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\GitHub\M7-CurriculumASP\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\GitHub\M7-CurriculumASP\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\GitHub\M7-CurriculumASP\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\GitHub\M7-CurriculumASP\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\GitHub\M7-CurriculumASP\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\GitHub\M7-CurriculumASP\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\GitHub\M7-CurriculumASP\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\GitHub\M7-CurriculumASP\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\GitHub\M7-CurriculumASP\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\GitHub\M7-CurriculumASP\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\GitHub\M7-CurriculumASP\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\GitHub\M7-CurriculumASP\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\GitHub\M7-CurriculumASP\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\GitHub\M7-CurriculumASP\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\GitHub\M7-CurriculumASP\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\GitHub\M7-CurriculumASP\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\GitHub\M7-CurriculumASP\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\GitHub\M7-CurriculumASP\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\GitHub\M7-CurriculumASP\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\GitHub\M7-CurriculumASP\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GitHub\M7-CurriculumASP\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GitHub\M7-CurriculumASP\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GitHub\M7-CurriculumASP\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GitHub\M7-CurriculumASP\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\GitHub\M7-CurriculumASP\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\GitHub\M7-CurriculumASP\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\GitHub\M7-CurriculumASP\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\GitHub\M7-CurriculumASP\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\GitHub\M7-CurriculumASP\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\GitHub\M7-CurriculumASP\obj\Debug\net6.0\CurrículumASP.csproj.AssemblyReference.cache
+E:\GitHub\M7-CurriculumASP\obj\Debug\net6.0\CurrículumASP.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\M7-CurriculumASP\obj\Debug\net6.0\CurrículumASP.AssemblyInfoInputs.cache
+E:\GitHub\M7-CurriculumASP\obj\Debug\net6.0\CurrículumASP.AssemblyInfo.cs
+E:\GitHub\M7-CurriculumASP\obj\Debug\net6.0\CurrículumASP.csproj.CoreCompileInputs.cache
+E:\GitHub\M7-CurriculumASP\obj\Debug\net6.0\CurrículumASP.MvcApplicationPartsAssemblyInfo.cs
+E:\GitHub\M7-CurriculumASP\obj\Debug\net6.0\CurrículumASP.MvcApplicationPartsAssemblyInfo.cache
+E:\GitHub\M7-CurriculumASP\obj\Debug\net6.0\CurrículumASP.RazorAssemblyInfo.cache
+E:\GitHub\M7-CurriculumASP\obj\Debug\net6.0\CurrículumASP.RazorAssemblyInfo.cs
+E:\GitHub\M7-CurriculumASP\obj\Debug\net6.0\staticwebassets.build.json
+E:\GitHub\M7-CurriculumASP\obj\Debug\net6.0\staticwebassets.development.json
+E:\GitHub\M7-CurriculumASP\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\GitHub\M7-CurriculumASP\obj\Debug\net6.0\scopedcss\bundle\CurrículumASP.styles.css
+E:\GitHub\M7-CurriculumASP\obj\Debug\net6.0\scopedcss\projectbundle\CurrículumASP.bundle.scp.css
+E:\GitHub\M7-CurriculumASP\obj\Debug\net6.0\CurrículumASP.csproj.CopyComplete
+E:\GitHub\M7-CurriculumASP\obj\Debug\net6.0\CurrículumASP.dll
+E:\GitHub\M7-CurriculumASP\obj\Debug\net6.0\refint\CurrículumASP.dll
+E:\GitHub\M7-CurriculumASP\obj\Debug\net6.0\CurrículumASP.pdb
+E:\GitHub\M7-CurriculumASP\obj\Debug\net6.0\CurrículumASP.genruntimeconfig.cache
+E:\GitHub\M7-CurriculumASP\obj\Debug\net6.0\ref\CurrículumASP.dll

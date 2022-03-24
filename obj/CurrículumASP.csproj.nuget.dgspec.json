@@ -10,14 +10,14 @@
         "projectUniqueName": "E:\\GitHub\\M7-CurriculumASP\\CurrículumASP.csproj",
         "projectName": "CurrículumASP",
         "projectPath": "E:\\GitHub\\M7-CurriculumASP\\CurrículumASP.csproj",
-        "packagesPath": "C:\\Users\\casti\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\sergicastin\\.nuget\\packages\\",
         "outputPath": "E:\\GitHub\\M7-CurriculumASP\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\casti\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sergicastin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

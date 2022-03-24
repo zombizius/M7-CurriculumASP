@@ -11,15 +11,15 @@ namespace CurrículumASP.Services
                 new ClassProjects
                 {
                     Title = "Ecommerce",
-                    Description = "Web de venta de videojuegos como proyecto de PHP",
+                    Description = "Video game sales website as a PHP project",
                     Link = "#",
                     imageURL = "/img/ecommerce.png"
                 },
 
                 new ClassProjects
                 {
-                    Title = "Ciberseguridad",
-                    Description = "Web realizada con HTML y CSS para el proyecto final de ASIX",
+                    Title = "Cybersecurity",
+                    Description = "Web made with HTML and CSS for the final ASIX project",
                     Link = "#",
                     imageURL = "/img/itcrowd1.png"
                 },
@@ -27,7 +27,7 @@ namespace CurrículumASP.Services
                 new ClassProjects
                 {
                     Title = "Aliexpress",
-                    Description = "Creación de la sección de pagos y usuarios de la página de Aliexpress",
+                    Description = "Creation of the payments and users section of the Aliexpress page",
                     Link = "https://es.aliexpress.com/",
                     imageURL = "/img/aliexpress.png"
                 },
@@ -35,7 +35,7 @@ namespace CurrículumASP.Services
                 new ClassProjects
                 {
                     Title = "Amazon",
-                    Description = "Configuración de una gran parte de la página de Amazon con Python.",
+                    Description = "Setting up a large part of the Amazon page with Python.",
                     Link = "https://www.amazon.es/",
                     imageURL = "/img/amazon.png"
                 },
@@ -43,15 +43,15 @@ namespace CurrículumASP.Services
                 new ClassProjects
                 {
                     Title = "Bofrost*",
-                    Description = "Creación de una web para la empresa Bofrost* con HTML, CSS y JS",
+                    Description = "Creation of a website for the company Bofrost* with HTML, CSS and JS",
                     Link = "https://www.bofrost.es/es/",
                     imageURL = "/img/bofrost.png"
                 },
 
                 new ClassProjects
                 {
-                    Title = "Ciberseguridad",
-                    Description = "6 meses trabajando en Fortinet en ciberseguridad para detener ataques rusos",
+                    Title = "Cybersecurity",
+                    Description = "6 months working at Fortinet in cybersecurity to stop Russian attacks",
                     Link = "https://www.fortinet.com/lat",
                     imageURL = "/img/fortinet.png"
                 },

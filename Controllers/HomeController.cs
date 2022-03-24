@@ -40,6 +40,10 @@ namespace CurrículumASP.Controllers
         {
             return View();
         }
+        public IActionResult Future()
+        {
+            return View();
+        }
         public IActionResult Contacto()
         {
             return View();

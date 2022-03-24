@@ -86,8 +86,16 @@ li {
     white-space: nowrap;
 }
 
-@media screen and (max-width: 567px) {
+#futuro{
+    text-align: center;
+}
 
+#imgdevops {
+    width: 40%;
+    height: 40%;
+}
+
+@media screen and (max-width: 567px) {
     .winner__table {
         font-size: 12px;
     }

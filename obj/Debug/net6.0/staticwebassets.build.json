@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "OUsM0jxLBrzPKE2t8EAlwsWl98Aq79Hb8FLOAOZfTyI=",
+  "Hash": "5eo9Jhe23y++FEh428VeX86xLXIeLTHQOQ//clQ3HlI=",
   "Source": "CurrículumASP",
   "BasePath": "_content/CurrículumASP",
   "Mode": "Default",
@@ -1071,6 +1071,23 @@
       "OriginalItemSpec": "E:\\GitHub\\M7-CurriculumASP\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\CurrículumASP.bundle.scp.css"
     },
     {
+      "Identity": "E:\\GitHub\\M7-CurriculumASP\\wwwroot\\audio\\musicafondo.mp3",
+      "SourceId": "CurrículumASP",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\GitHub\\M7-CurriculumASP\\wwwroot\\",
+      "BasePath": "_content/CurrículumASP",
+      "RelativePath": "audio/musicafondo.mp3",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\audio\\musicafondo.mp3"
+    },
+    {
       "Identity": "E:\\GitHub\\M7-CurriculumASP\\wwwroot\\css\\site.css",
       "SourceId": "CurrículumASP",
       "SourceType": "Discovered",
@@ -1188,6 +1205,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\codigos.jpg"
+    },
+    {
+      "Identity": "E:\\GitHub\\M7-CurriculumASP\\wwwroot\\img\\devops.png",
+      "SourceId": "CurrículumASP",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\GitHub\\M7-CurriculumASP\\wwwroot\\",
+      "BasePath": "_content/CurrículumASP",
+      "RelativePath": "img/devops.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\devops.png"
     },
     {
       "Identity": "E:\\GitHub\\M7-CurriculumASP\\wwwroot\\img\\ecommerce.png",
@@ -2259,6 +2293,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\pdf\\curriculum.pdf"
+    },
+    {
+      "Identity": "E:\\GitHub\\M7-CurriculumASP\\wwwroot\\video\\devops.mp4",
+      "SourceId": "CurrículumASP",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\GitHub\\M7-CurriculumASP\\wwwroot\\",
+      "BasePath": "_content/CurrículumASP",
+      "RelativePath": "video/devops.mp4",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\video\\devops.mp4"
     }
   ]
 }
